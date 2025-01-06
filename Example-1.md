@@ -17,3 +17,58 @@ ___This is a bold and italic text___ <br>
 
 Visit [Google](https://google.lk) <br>
 Visit [IJSE](https://ijse.lk) <br>
+
+# Anchor 1
+Lorem ipsum odor amet, consectetuer adipiscing elit. Fames malesuada dapibus 
+efficitur facilisis, fusce tincidunt ullamcorper! Dolor ullamcorper cursus 
+consequat duis nullam a tellus. Dignissim senectus himenaeos ex libero augue 
+suspendisse. Mi sapien fames nullam, scelerisque auctor nostra. Eu etiam
+senectus faucibus netus ornare. Class tempor massa dictumst hac laoreet; 
+quam aenean. Himenaeos mauris cras posuere primis gravida vel.
+
+Platea pulvinar tristique blandit proin sagittis rutrum ridiculus purus. Sed 
+tincidunt curae himenaeos litora augue nascetur. Purus augue risus integer 
+molestie metus volutpat pharetra lacus. Dignissim erat orci urna ullamcorper 
+habitasse proin. Facilisi nascetur tristique felis dapibus feugiat neque tincidunt. 
+Aliquet libero commodo dapibus luctus vulputate mi; penatibus non porttitor. 
+Phasellus erat lacinia, lobortis netus mus aptent aliquet sit. Mus nunc 
+suscipit nostra suspendisse, egestas tempor aliquet. Etiam ultrices id 
+metus quisque feugiat nibh massa. Et fringilla venenatis aliquet condimentum 
+urna sapien; augue penatibus nam.
+
+# Anchor 2
+Lorem ipsum odor amet, consectetuer adipiscing elit. Fames malesuada dapibus
+efficitur facilisis, fusce tincidunt ullamcorper! Dolor ullamcorper cursus
+consequat duis nullam a tellus. Dignissim senectus himenaeos ex libero augue
+suspendisse. Mi sapien fames nullam, scelerisque auctor nostra. Eu etiam
+senectus faucibus netus ornare. Class tempor massa dictumst hac laoreet;
+quam aenean. Himenaeos mauris cras posuere primis gravida vel.
+
+Platea pulvinar tristique blandit proin sagittis rutrum ridiculus purus. Sed
+tincidunt curae himenaeos litora augue nascetur. Purus augue risus integer
+molestie metus volutpat pharetra lacus. Dignissim erat orci urna ullamcorper
+habitasse proin. Facilisi nascetur tristique felis dapibus feugiat neque tincidunt.
+Aliquet libero commodo dapibus luctus vulputate mi; penatibus non porttitor.
+Phasellus erat lacinia, lobortis netus mus aptent aliquet sit. Mus nunc
+suscipit nostra suspendisse, egestas tempor aliquet. Etiam ultrices id
+metus quisque feugiat nibh massa. Et fringilla venenatis aliquet condimentum
+urna sapien; augue penatibus nam.
+
+Lorem ipsum odor amet, consectetuer adipiscing elit. Fames malesuada dapibus
+efficitur facilisis, fusce tincidunt ullamcorper! Dolor ullamcorper cursus
+consequat duis nullam a tellus. Dignissim senectus himenaeos ex libero augue
+suspendisse. Mi sapien fames nullam, scelerisque auctor nostra. Eu etiam
+senectus faucibus netus ornare. Class tempor massa dictumst hac laoreet;
+quam aenean. Himenaeos mauris cras posuere primis gravida vel.
+
+Platea pulvinar tristique blandit proin sagittis rutrum ridiculus purus. Sed
+tincidunt curae himenaeos litora augue nascetur. Purus augue risus integer
+molestie metus volutpat pharetra lacus. Dignissim erat orci urna ullamcorper
+habitasse proin. Facilisi nascetur tristique felis dapibus feugiat neque tincidunt.
+Aliquet libero commodo dapibus luctus vulputate mi; penatibus non porttitor.
+Phasellus erat lacinia, lobortis netus mus aptent aliquet sit. Mus nunc
+suscipit nostra suspendisse, egestas tempor aliquet. Etiam ultrices id
+metus quisque feugiat nibh massa. Et fringilla venenatis aliquet condimentum
+urna sapien; augue penatibus nam.
+
+[Anchor 1](#anchor-1)
