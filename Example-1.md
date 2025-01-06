@@ -14,3 +14,6 @@
 __This is a bold text__<br>
 _This is an italic text_<br>
 ___This is a bold and italic text___ <br>
+
+Visit [Google](https://google.lk) <br>
+Visit [IJSE](https://ijse.lk) <br>
