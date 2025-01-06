@@ -1,6 +1,5 @@
 # Welcome to DEP-13
-**Lorem ipsum odor amet, consectetuer adipiscing elit. Pretium ante duis consectetur faucibus aliquet. Lacus augue 
-egestas scelerisque pellentesque congue ac.**
+**Lorem ipsum odor amet, consectetuer adipiscing elit. Pretium ante duis consectetur faucibus aliquet.**
 
 *Lorem ipsum odor amet, consectetuer adipiscing elit. Pretium ante duis consectetur faucibus aliquet.*
 
